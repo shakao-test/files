@@ -8,11 +8,11 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "new_files.ts"
+        "new_files.ts",
+        "testfolder/testfile.ts"
     ],
     "preferredEditor": "tsprj",
     "testFiles": [
-        "test.ts",
-        "testfolder/testfile.ts"
+        "test.ts"
     ]
 }
