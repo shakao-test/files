@@ -13,6 +13,6 @@
     "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts",
-        "testfolder\testfile.ts"
+        "testfolder/testfile.ts"
     ]
 }
